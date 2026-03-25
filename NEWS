@@ -5,6 +5,12 @@ fixtures release notes
 NEXT
 ~~~~
 
+4.3.2
+~~~~~
+
+* Temporarily re-add the ``fixtures.tests.helpers`` module.
+  (Stephen Finucane)
+
 4.3.1
 ~~~~~
 
